@@ -1,0 +1,17 @@
+[33mcommit ebb378c82a57d6677a92df593824ab63bc908df3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Issa Amjadi <amjadi.issa@gmail.com>
+Date:   Fri Apr 17 03:33:05 2026 -0400
+
+    Add SQL star schema, database loader, and analytical views
+
+[33mcommit 7c88936ffad4838fd5566e7ce7137819b3ded6a9[m
+Author: Issa Amjadi <amjadi.issa@gmail.com>
+Date:   Fri Apr 17 02:12:20 2026 -0400
+
+    Add data cleaning with dedup, bedroom extraction, price categories
+
+[33mcommit 1ae9ddd9dd2e868b5faf5f49e51d3e978a85ee49[m
+Author: Issa Amjadi <amjadi.issa@gmail.com>
+Date:   Thu Apr 16 18:48:16 2026 -0400
+
+    Initial commit: Dallas real estate scraper with 945 listings

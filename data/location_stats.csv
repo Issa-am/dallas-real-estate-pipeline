@@ -1,0 +1,79 @@
+clean_location,total_listings,avg_price,min_price,max_price,price_stddev,avg_bedrooms
+Dallas,40,1298.0,850,2930,437.0,1.5
+Fort Worth,38,1114.0,795,1808,278.0,1.8
+North Dfw,14,662.0,291,1145,365.0,1.0
+Ennis,10,1986.0,1900,2100,68.0,
+Mesquite,9,1188.0,899,1409,235.0,1.3
+"7610 Skillman St, Dallas",7,876.0,799,1210,148.0,
+Forney,7,2044.0,1975,2100,55.0,
+Bedford,6,1404.0,1025,1700,276.0,1.7
+5951 Melody Lane Dallas,6,936.0,875,995,59.0,1.0
+"3130 Lombardy Ln, Dallas",5,1231.0,1020,1375,148.0,0.0
+Dallas - Downtown Dallas,5,1417.0,1224,1908,300.0,1.0
+Arlington,5,1115.0,865,1444,228.0,1.8
+"3401 N Central Expy N, Mckinney",4,1254.0,399,1539,570.0,
+Mid Cities,4,1356.0,1025,1700,302.0,1.8
+"11457 Dennis Rd, Dallas",4,1202.0,1084,1275,92.0,
+"9050 Markville Drive, Dallas",4,1124.0,1019,1359,158.0,
+Fort Worth - Fort Worth Botanic Garden,4,1037.0,882,1192,179.0,1.5
+Prosper,4,3074.0,2950,3300,166.0,
+Fort Worth - Fort Worth Water Gardens,4,998.0,852,1236,166.0,1.5
+"2333 Escalante Ave, Fort Worth",4,1448.0,1200,1700,204.0,
+"2801 Turnberry Dr, Arlington",4,1191.0,910,1505,250.0,
+"595 S Old Orchard Ln, Lewisville",3,1461.0,1270,1709,225.0,
+"6801 K Ave, Plano",3,1159.0,399,1539,658.0,
+"14018 Brookgreen Drive, Dallas",3,700.0,700,700,0.0,1.0
+Dallas - Frasier Dam Park Trails,3,976.0,674,1430,400.0,1.5
+Dallas - Bachman Lake Park,3,665.0,649,674,14.0,1.0
+"380 W Lyndon B Johnson Fwy, Irving",3,856.0,439,1689,722.0,
+"1400 Shady Ln, Bedford",3,1015.0,795,1125,191.0,
+"6603 E Lovers Ln, Dallas",3,1144.0,735,1399,358.0,
+Weatherford,3,1275.0,1165,1330,95.0,2.5
+"14000 Esperanza Road, Dallas",3,978.0,935,1000,38.0,1.0
+"4328 Duck Creek Dr, Garland",3,933.0,920,960,23.0,
+Fort Worth - Fort Worth Stockyards,3,1225.0,852,1412,323.0,1.7
+Denton,3,1519.0,995,2395,763.0,
+Arlington/Grand Prairie,3,1631.0,1397,2096,403.0,
+"2700 Martin Dr, Bedford",3,1125.0,925,1400,246.0,
+"1201 S. Austin Comanche, Texas",2,1070.0,1003,1136,94.0,
+Red Oak,2,2100.0,2100,2100,0.0,
+North Dallas,2,865.0,834,895,43.0,0.0
+"7310 Marvin D. Love Fwy, Dallas",2,950.0,875,1025,106.0,
+"4211 San Jacinto St, Dallas",2,1310.0,1310,1310,0.0,
+"2501 Webb Chapel Ext, Dallas",2,775.0,775,775,0.0,1.0
+Garland,2,1487.0,1075,1899,583.0,
+"9020 Rasor Boulevard, Plano",2,343.0,343,343,0.0,1.0
+Irving,2,1214.0,1027,1400,264.0,1.0
+"3701 N O'Connor Rd, Irving",2,1919.0,1891,1946,39.0,2.0
+"3565 Timberglen Rd, Dallas",2,825.0,825,825,0.0,1.0
+Dallas - Stereo Live Dallas,2,692.0,680,704,17.0,
+"Grand Prairie, Mansfield, Midlothian",2,2253.0,2130,2375,173.0,
+2101 Pinehurst Lane,2,1259.0,1259,1259,0.0,2.0
+"12745 N Fwy, Fort Worth",2,953.0,399,1507,783.0,
+Mckinney/Frisco,2,1512.0,1195,1829,448.0,
+"4505 N Interstate 35, Denton",2,879.0,359,1399,735.0,
+"Via Real, Cavalli Pizza",2,1215.0,1053,1376,228.0,
+"350 Shady Ln Dr, Fort Worth",2,1149.0,949,1349,283.0,
+"248 E Southwest Pkwy, Lewisville",2,1079.0,959,1199,170.0,
+"6100 Westcreek Dr, Fort Worth",2,1199.0,1199,1199,0.0,
+Ft Worth,1,1900.0,1900,1900,,
+Addison/North Dallas,1,1525.0,1525,1525,,
+Mckinney,1,1203.0,1203,1203,,
+Plano,1,1500.0,1500,1500,,
+West Of Weatherford/ Ft Worth,1,789.0,789,789,,2.0
+Mansfield,1,1325.0,1325,1325,,
+Ft  Worth,1,1970.0,1970,1970,,
+Waxahachie,1,2399.0,2399,2399,,
+Carrollton,1,1279.0,1279,1279,,
+Grand Prairie,1,1157.0,1157,1157,,
+"Fort Worth, Texas",1,1606.0,1606,1606,,2.0
+Seagoville,1,1299.0,1299,1299,,2.0
+Whitewright,1,1070.0,1070,1070,,
+Centennial Park,1,1103.0,1103,1103,,
+Frisco,1,1600.0,1600,1600,,
+Allen/ Mckinney,1,1160.0,1160,1160,,
+"2333 Escalante Ave, Dallas / Fort Worth",1,1200.0,1200,1200,,
+"16060 Dallas Pkwy, Dallas",1,1145.0,1145,1145,,0.0
+"701 W Buckingham Rd, Garland",1,1195.0,1195,1195,,
+Frisco/Plano/Prosper,1,1399.0,1399,1399,,
+South Dfw,1,1490.0,1490,1490,,
