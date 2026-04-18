@@ -13,7 +13,7 @@ from datetime import datetime
 def load_raw_data(data_dir="data"):
     """Load the most recent CSV from the data folder."""
     
-    files = [f for f in os.listdir(data_dir) if f.endswith(".csv")]
+    files = [f for f in os.listdir(data_dir) if f.startswith("dallas_listings_2") and f.endswith(".csv")]
     if not files:
         print("No CSV files found in data folder.")
         return None

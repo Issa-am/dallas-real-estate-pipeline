@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  pipeline:
+    build: .
+    container_name: dallas-pipeline
+    volumes:
+      - ./data:/app/data
+    command: >
+      bash -c "
+        echo '=== Running Dallas Real Estate Pipeline ===' &&
+        python scrapers/scraper.py &&
+        python transformations/clean_data.py &&
+        python transformations/spark_transforms.py &&
+        python sql/load_data.py &&
+        echo '=== Pipeline Complete ==='
+      "
